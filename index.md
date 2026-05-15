@@ -32,10 +32,10 @@ title: "Home"
       </p>
 
       <div style="font-size: 0.95rem; color: #444; line-height: 1.6;">
-        📧 <a href="mailto:agboola@umich.edu">haejoonl@umich.edu</a><br>
+        📧 <a href="mailto:agboola@umich.edu">agboola@umich.edu</a><br>
         🔗 <a href="https://scholar.google.com/citations?user=zls1RxgAAAAJ&hl=en" target="_blank">Google Scholar</a> · 
-           <a href="https://github.com/isaagboola/" target="_blank">GitHub</a> · 
-           <a href="https://www.linkedin.com/in/www.linkedin.com/in/isaiah-agboola-799b58166/" target="_blank">LinkedIn</a>
+           <a href="https://github.com/isaagboola.github.io/" target="_blank">GitHub</a> · 
+           <a href="https://www.linkedin.com/in/isaiah-agboola-799b58166/" target="_blank">LinkedIn</a>
       </div>
     </div>
 
