@@ -46,7 +46,7 @@ title: "Home"
       <a href="https://aisys.engin.umich.edu/" target="_blank">AI sys Lab</a>, part of the 
       <a href="https://me.engin.umich.edu/" target="_blank">Department of Mechanical Engineering</a> at the University of Michigan, Ann Arbor. 
       I am advised by <a href="https://me.engin.umich.edu/people/faculty/uduak-inyang-udoh/" target="_blank">Professor Uduak Inyang-Udoh</a>. 
-      My research is at the intersection of <strong> controls and advanced manufacturing </strong>, with a focus on additive manufacturing specifically, <strong> Directed Energy Deposition</strong>. I also work on  <strong> optimal control </strong> in autonomous systems, especially in safety-critical settings. 
+      My research is at the intersection of <strong> controls and advanced manufacturing </strong>, with a focus on additive manufacturing specifically, <strong> Directed Energy Deposition</strong>. I also work on  <strong>optimal control</strong> in autonomous systems, especially in safety-critical settings. 
       </p>
 
       <p>
