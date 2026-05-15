@@ -32,10 +32,10 @@ title: "Home"
       </p>
 
       <div style="font-size: 0.95rem; color: #444; line-height: 1.6;">
-        📧 <a href="mailto:haejoonl@umich.edu">haejoonl@umich.edu</a><br>
-        🔗 <a href="https://scholar.google.com/citations?user=W0kpJYUAAAAJ&hl=en" target="_blank">Google Scholar</a> · 
-           <a href="https://github.com/joonlee16/" target="_blank">GitHub</a> · 
-           <a href="https://www.linkedin.com/in/haejoon-lee-450900244/" target="_blank">LinkedIn</a>
+        📧 <a href="mailto:agboola@umich.edu">haejoonl@umich.edu</a><br>
+        🔗 <a href="https://scholar.google.com/citations?user=zls1RxgAAAAJ&hl=en" target="_blank">Google Scholar</a> · 
+           <a href="https://github.com/isaagboola/" target="_blank">GitHub</a> · 
+           <a href="https://www.linkedin.com/in/www.linkedin.com/in/isaiah-agboola-799b58166/" target="_blank">LinkedIn</a>
       </div>
     </div>
 
@@ -46,7 +46,7 @@ title: "Home"
       <a href="https://aisys.engin.umich.edu/" target="_blank">AI sys Lab</a>, part of the 
       <a href="https://me.engin.umich.edu/" target="_blank">Department of Mechanical Engineering</a> at the University of Michigan, Ann Arbor. 
       I am advised by <a href="https://me.engin.umich.edu/people/faculty/uduak-inyang-udoh/" target="_blank">Professor Uduak Inyang-Udoh</a>. 
-      My research is at the intersection of <strong> controls and advanced manufacturing </strong>, with focus of additive manucfaturing specically, <strong> Directed Energy Deposition</strong> . I also work on anything <strong> optimal control </strong> on autonoumous systems especially in safety critical settings. 
+      My research is at the intersection of <strong> controls and advanced manufacturing </strong>, with a focus on additive manufacturing specifically, <strong> Directed Energy Deposition</strong>. I also work on  <strong> optimal control </strong> in autonomous systems, especially in safety-critical settings. 
       </p>
 
       <p>
