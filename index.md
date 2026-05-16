@@ -25,7 +25,7 @@ title: "Home"
       <img src="/pics/Isaiahagboola.jpeg" 
            alt="Isaiah Agboola, PhD Candidate in Mechanical Engineering." 
            style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; margin-bottom: 15px;">
-      <h1 style="margin: 0; font-size: 2.3rem;"><strong>Website under construction, check back</strong></h1>
+      <h1 style="margin: 0; color: #444; font-size: 2.3rem;"><strong>Website under construction, check back</strong></h1>
       <h1 style="margin: 0; font-size: 1.9rem;"><strong>Isaiah Agboola</strong></h1>
       <p style="margin: 6px 0 15px 0; font-size: 1rem; color: #555;">
         <strong>PhD Candidate</strong> in Mechanical Engineering, University of Michigan
