@@ -10,7 +10,7 @@ title: "Home"
   <video autoplay muted loop playsinline
          style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
                 object-fit: cover; z-index: 0;">
-    <source src="/pics/vid2.MP4" type="video/mp4">
+    <source src="pics/vid2.MP4" type="video/mp4">
   </video>
 
   <!-- Foreground Content -->
@@ -22,7 +22,7 @@ title: "Home"
                 box-shadow: 0 6px 20px rgba(0,0,0,0.12); background-color: rgba(255,255,255,0.85);
                 transition: transform 0.3s; margin-top: 80px;">
       
-      <img src="/pics/Isaiahagboola.jpeg" 
+      <img src="pics/Isaiahagboola.jpeg" 
            alt="Isaiah Agboola, PhD Candidate in Mechanical Engineering." 
            style="width: 180px; height: 180px; border-radius: 50%; object-fit: cover; margin-bottom: 15px;">
       <h1 style="margin: 0; color: #444; font-size: 2.3rem;"><strong>Website under construction, check back</strong></h1>
